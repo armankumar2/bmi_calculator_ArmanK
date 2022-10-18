@@ -181,7 +181,7 @@ clear_report_b.place(x= 230, y= 464)
 clear_report_b.config(activebackground= "light blue") # Clicking the button it didn't show any bg
 
 #copywright_trademark
-copywright = Label(window, text= "© Arman Tech. All rights reserved" , font= ("Poppins",5), fg= "black", bg= "light blue")
+copywright = Label(window, text= "Copyright (c) 2022 armankumar2" , font= ("Poppins",5), fg= "black", bg= "light blue")
 copywright.place(x= 250, y= 508)
 
 # To run the program
